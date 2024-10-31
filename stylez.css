@@ -3,8 +3,9 @@
 /* General styling for the entire page */
 body {
     font-family: Arial, sans-serif;
-    background-color: white;
+    background-color: blue;
     margin: 0;
+    
 }
 
 .wrapper {
